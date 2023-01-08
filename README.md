@@ -7,5 +7,5 @@ Foco:
 
 Tecnológias:
    Reconhecimento de voz: (Google para reconhecimento online, voks para reconhecimento offline).
-   Síntese de voz.
-   Algum tipo de IA.
+   Síntese de voz: (pyttsx3)
+   Algum tipo de IA: 
